@@ -1,0 +1,8 @@
+{
+  "name": "Elva’s Palette",
+  "short_name": "Elva",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f4f0e7",
+  "theme_color": "#f4f0e7"
+}
